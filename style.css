@@ -1,0 +1,67 @@
+header{
+  top: 5px;
+  color: white;
+  font-size: 30px;
+  position: relative;/*per il posizionamento della scritta Gmail*/
+}
+
+
+.gmail{
+  bottom: 40px;
+  position: absolute;/*per il posizionamento della scritta Gmail*/
+  left: 87px;
+}
+.frase{
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+
+.testomail{
+  color:  rgb(0,0,0, 0.6);
+}
+html{
+  background-image: url("immagini/img2.jpg");
+  background-size: cover;
+}
+.section1{
+  border-top: 3px solid white;
+  font-size: 30px;
+  color: white;
+}
+
+
+
+.section2{
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+  padding: 5px;
+  box-sizing:border-box;
+}
+
+footer{
+  font-size: 35px;
+  text-align: center;
+  color: white;
+}
+em{
+  font-size: 20px;
+}
+.mail{
+  display: block;
+  background-color: rgb(232,232,232, 0.6);
+  margin: 1px;
+  padding: 5px;
+}
+#unread{
+  background-color: rgb(232,232,232, 0.8) ;
+}
+.number{
+  background-color: pink;
+  border-radius: 100%;
+  padding: 15px;
+}
+#center{
+  margin:  10px auto;
+  width: 600px;
+}
