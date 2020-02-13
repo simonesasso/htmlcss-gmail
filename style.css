@@ -54,7 +54,7 @@ em{
   margin: 1px;
   padding: 5px;
 }
-#unread{
+.unread{
   background-color: rgb(232,232,232, 0.8) ;
 }
 .number{
@@ -62,7 +62,7 @@ em{
   border-radius: 100%;
   padding: 15px;
 }
-#center{
+.center{
   margin:  10px auto;
   width: 600px;
 }
